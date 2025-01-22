@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Tanuj! 👋
 
-<!--
-**Tanuj26Rajput/Tanuj26Rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=TanujRajput&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Tanuj26Rajput?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Tanuj26Rajput?label=Stars&style=social)
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 **First-Year BE CSE Student** at Panjab University.
+- 🌍 From **Ghaziabad, Uttar Pradesh**.
+- 💻 Currently improving my coding skills in **C++, Python, and SQL**.
+- 🎯 Solved **100+ problems on LeetCode** and working on more!
+- 🌱 Exploring web development with **HTML**, **CSS** and **JAVASCRIPT**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![SQL](https://img.shields.io/badge/-SQL-003B57?&logo=MySQL&logoColor=white)
+
+## GitHub Stats
+
+![Tanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanuj26Rajput&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuj26Rajput&layout=compact&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tanuj26rajput)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/Tanuj26Rajput)
