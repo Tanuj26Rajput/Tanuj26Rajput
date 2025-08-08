@@ -7,9 +7,8 @@
 ## 🌟 About Me
 - 🎓 **First-Year BE CSE Student** at Panjab University.
 - 🌍 From **Ghaziabad, Uttar Pradesh**.
-- 💻 Currently improving my coding skills in **C++, Python, and SQL**.
-- 🎯 Solved **100+ problems on LeetCode** and working on more!
-- 🌱 Exploring web development with **HTML**, **CSS** and **JAVASCRIPT**.
+- 💻 Currently improving my coding skills in **C++, Python.
+- 🌱 Exploring **machine learning and AI**
 
 ## Languages and Tools
 
