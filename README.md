@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Tanuj26Rajput?label=Stars&style=social)
 
 ## 🌟 About Me
-- 🎓 **First-Year BE CSE Student** at Panjab University.
+- 🎓 **Second-Year BE CSE Student** at Panjab University.
 - 🌍 From **Ghaziabad, Uttar Pradesh**.
 - 💻 Currently improving my coding skills in **C++, Python.
 - 🌱 Exploring **machine learning and AI**
