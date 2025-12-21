@@ -7,7 +7,7 @@
 ## 🌟 About Me
 - 🎓 **Second-Year BE CSE Student** at Panjab University.
 - 🌍 From **Ghaziabad, Uttar Pradesh**.
-- 💻 Currently improving my coding skills in **C++, Python.
+- 💻 Currently improving my coding skills in **Python**.
 - 🌱 Exploring **machine learning and AI**
 
 ## Languages and Tools
