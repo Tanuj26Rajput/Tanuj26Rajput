@@ -46,13 +46,13 @@
 
 ## 📊 GitHub Stats  
 
-![Tanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanuj26Rajput&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tanuj26Rajput&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📌 Top Languages  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuj26Rajput&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tanuj26Rajput&layout=compact&theme=tokyonight)
 
 ---
 
