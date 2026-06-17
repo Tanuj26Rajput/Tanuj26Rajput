@@ -9,10 +9,10 @@
 
 ## 🧠 About Me  
 
-🎓 Second-Year **B.E. CSE Student** @ Panjab University  
+🎓 Third-Year **B.E. CSE Student** @ Panjab University  
 🌍 Based in **Ghaziabad, India**  
-💡 Passionate about **AI, Machine Learning & Intelligent Systems**  
-⚡ Building real-world projects using **LangChain, HuggingFace & ML models**  
+💡 Passionate about **AI, Automation, Agents & Intelligent Systems**  
+⚡ Building real-world projects using **LangChain, LangGraph & FastAPI**  
 📈 Solved **100+ LeetCode problems**  
 
 ---
